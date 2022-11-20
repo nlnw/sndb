@@ -128,7 +128,7 @@ export function HeroBullets() {
             <Group mt={30}>
               <Button
                 component="a"
-                href="https://github.com/nlnw/sndb/README.md"
+                href="https://github.com/nlnw/sndb/blob/main/README.md"
                 target="_blank"
                 radius="xl"
                 size="md"
