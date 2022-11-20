@@ -24,3 +24,5 @@ https://explorer.glif.io/wallaby/tx/0x272cf2b7465a391bc3d3f4b73abea955ab154609df
 
 Set "avatar.jpg" for "twitter:tier10k" successfully:
 https://explorer.glif.io/wallaby/tx/0x060e3f8078cb62bdffbefc6fcd774bad2c03de2bc9a261d7a47f2732a3084c53/
+
+Balance of user as retrieved from getBalance() is now +11000.
