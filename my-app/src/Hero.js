@@ -105,22 +105,24 @@ export function HeroBullets() {
               <br />
               <List.Item>
                 User authenticates and grants SNDB permission to their own data
-                on web2 incumbents, for which they have rights to.
+                on web2 incumbents, for which they have rights to. SNDB stores
+                access token.
               </List.Item>
               <List.Item>
-                SNDB downloads user data and store on Filecoin encrypted. Data
-                include username, profile pics, friend/follower graphs,
-                published content.
+                With access token SNDB downloads user data and store on Filecoin
+                encrypted. Data include username, profile pics, friend/follower
+                graphs, published content.
               </List.Item>
               <List.Item>
-                User can choose to publish to web3 Social Network. E.g. with a
-                Lens protocol adapter, a user can mint a Lens profile populated
-                with existing info from Twitter easily, and publishing some of
-                the recent tweets.
+                User can publish to web3 Social Network. E.g. with a Lens
+                protocol adapter, a user can mint a Lens profile populated with
+                existing info from Twitter easily, and publishing some of the
+                recent tweets.
               </List.Item>
               <List.Item>
-                Content can be cross posted from web3 to web2 via making a
-                request to SNDB which stores the user auth token.
+                User can share graph info with web3 Social Network, which can be
+                used to find people they already know. E.g. user auto follow
+                Lens profiles that they are already following on Twitter.
               </List.Item>
               <List.Item>Earn SNDB tokens for migrating data!</List.Item>
             </List>
