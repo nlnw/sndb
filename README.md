@@ -1,5 +1,6 @@
 # Getting Started
 
+- Simply run `sndb.py` and customize as needed.
 - Python script will do the following:
   - Auth to Twitter
   - Download social data using auth token
